@@ -1,0 +1,9 @@
+try:
+	print(5/o)
+except key error:
+	print("galat hai")
+except:
+	print("division by zero not allowed")
+else
+
+
