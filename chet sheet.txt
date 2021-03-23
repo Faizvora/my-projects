@@ -1,0 +1,8 @@
+How to pull the code from the repository and add changed in the reposittory
+
+1)git clone url download
+2) cd (write the name of the repository)
+3)git add . (for changes to add)
+4)git commit -m "fdfjhd" /for commiting
+5)git remote -v //for geting the url of origin
+6)git push origin master
