@@ -6,3 +6,4 @@ How to pull the code from the repository and add changed in the reposittory
 4)git commit -m "fdfjhd" /for commiting
 5)git remote -v //for geting the url of origin
 6)git push origin master
+command for open of vs codeis code .
